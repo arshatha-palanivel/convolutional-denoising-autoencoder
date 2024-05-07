@@ -40,6 +40,7 @@ Reconstruct noisy images from the test set using the trained autoencoder, and di
 ## PROGRAM
 
 Developed by: ARSHATHA.P 
+
 Register No: 212222230012
 
 ```PY
